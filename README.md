@@ -2,4 +2,4 @@
 - 🌏 Live in indonesia
 
 
-Minecraft Server developer (Setup Specialist
+Minecraft Server developer (Setup Specialist) 
